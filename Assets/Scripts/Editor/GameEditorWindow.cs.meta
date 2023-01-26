@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7313b15a018e9fd4daff2f1ce6879b4a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - _throttlePower: {fileID: 11400000, guid: beb4542c9c678f14cb3e3a74aead4314, type: 2}
+  - _rotationPower: {fileID: 11400000, guid: eb6f17e4493560c4b9750572ccc4f906, type: 2}
+  - _newIntVeriable: {fileID: 11400000, guid: 67dcbdf95f6b0974fab69675919efbf6, type: 2}
+  - _spawnPosIndex: {fileID: 11400000, guid: ec2c2a8acae92c845be6a7141843debc, type: 2}
+  - _shipHealth: {fileID: 11400000, guid: 40cfb1e1b58e0f84a966e03698c56110, type: 2}
+  - m_VisualTreeAsset: {fileID: 9197481963319205126, guid: 41ff76bceb65b52489b44623ccaf070f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

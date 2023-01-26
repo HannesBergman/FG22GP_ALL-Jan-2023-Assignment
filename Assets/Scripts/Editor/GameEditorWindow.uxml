@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/Editor/GameEditorWindow.uss?fileID=7433441132597879392&amp;guid=f697b22e5335a584198fd6aea58b03cc&amp;type=3#GameEditorWindow" />
+    <ui:Label text="Custom Editor Window" enable-rich-text="true" class="custom-label" />
+    <ui:DropdownField label="Astroid Spawn Direction" index="0" name="AstroidSpawnDirection" choices="Random, Bottom, Left, Right, Top" tabindex="1" />
+    <ui:Slider picking-mode="Ignore" label="Rotation Speed" value="3" high-value="10" name="RotationSpeed" show-input-field="true" style="left: auto; width: 341px;" />
+    <ui:Slider picking-mode="Ignore" label="Astroid Damage" value="1" high-value="10" name="AstroidDamage" show-input-field="true" style="width: 341px;" />
+    <ui:IntegerField label="Ship Health" value="10" name="ShipHealth" style="width: 144px;" />
+</ui:UXML>
